@@ -10,6 +10,11 @@ import android.widget.TextView;
 import com.apps.andhika.R;
 import com.apps.andhika.utils.Preferences;
 
+/*
+    Developed by Andhika Putra Bagaskara - 10117167 - IF5
+    on 27-04-2020
+ */
+
 public class HomeActivity extends AppCompatActivity {
 
     private TextView txtKeluar;

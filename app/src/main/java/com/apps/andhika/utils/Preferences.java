@@ -5,6 +5,11 @@ import android.content.SharedPreferences;
 
 import com.apps.andhika.com.apps.andhika.latihansharedpreference.model.UserModel;
 
+/*
+    Developed by Andhika Putra Bagaskara - 10117167 - IF5
+    on 27-04-2020
+ */
+
 public class Preferences {
 
     private static final String PREF_SESSION = "com.apps.andhika.latihanpreference.session";

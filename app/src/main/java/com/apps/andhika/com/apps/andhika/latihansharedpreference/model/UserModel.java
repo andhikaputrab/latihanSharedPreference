@@ -1,5 +1,10 @@
 package com.apps.andhika.com.apps.andhika.latihansharedpreference.model;
 
+/*
+    Developed by Andhika Putra Bagaskara - 10117167 - IF5
+    on 27-04-2020
+ */
+
 public class UserModel {
     private String username;
     private String password;
