@@ -15,7 +15,7 @@ import com.apps.andhika.utils.Preferences;
     on 27-04-2020
  */
 
-// TEST UPDATE PROJECT 1
+// TEST UPDATE PROJECT 2
 public class HomeActivity extends AppCompatActivity {
 
     private TextView txtKeluar;
